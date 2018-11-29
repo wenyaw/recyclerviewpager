@@ -1,3 +1,3 @@
 # recyclerviewpager
-广告轮播banner
+广告轮播带title的banner
 ![Image](https://github.com/wenyaw/recyclerviewpager/blob/master/image/1.png)
